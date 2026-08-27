@@ -26,9 +26,9 @@
 
 Important: Download the tool from the link below.
 
-Download: https://software-hub.forumotion.com/t11-browser-session-backup
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
